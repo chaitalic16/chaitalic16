@@ -1,7 +1,8 @@
-👋 Greetings, I'm @chaitalic16. My expertise lies in SQL, PL/SQL, and Snowflake, complemented by a keen interest in cloud technologies. 
+Greetings. I'm @chaitalic16. I launched my career as a Junior Software Developer at Sigmasoft Inc. in Bangalore, where I’ve developed a strong foundation in SQL, PL/SQL, Snowflake, Python, and AI-driven applications. I also have a keen interest in cloud technologies.
 
-🌱 I'm dedicated to continual learning and currently focusing on advancing my proficiency in these domains, as well as exploring emerging trends and tools within the cloud ecosystem.
+🌱 Committed to continual learning, I’m currently focusing on advancing my expertise in these areas, particularly exploring new tools and trends in AI and the cloud ecosystem.
 
-💼 I am open to collaboration opportunities aligned with my skill set. Whether it involves optimizing database performance, architecting robust data solutions, or leveraging cloud platforms for scalable applications, I'm eager to contribute to impactful projects.
+💼 I am open to collaboration opportunities that align with my skill set—optimizing database performance, developing AI-driven data solutions, architecting robust data pipelines, or leveraging cloud platforms for scalable applications. I’m passionate about contributing to impactful projects and driving meaningful outcomes.
 
-📫 If you're interested in exploring potential collaborations or discussing topics related to SQL, PL/SQL, Snowflake, or cloud technologies, feel free to reach out to me. I'm here to engage in meaningful professional exchanges and drive innovation together.
+📫 If you're interested in potential collaborations or engaging in discussions on SQL, PL/SQL, Snowflake, Python, AI, or cloud technologies, feel free to connect with me. I’m always eager to participate in professional exchanges and drive innovation together.
+
